@@ -1,6 +1,6 @@
 # MPI Programming Assignment
 
-This repository contains MPI-based C programs that demonstrate various parallel computing concepts using the Message Passing Interface (MPI). The programs include tasks like calculating Pi, performing matrix operations, finding primes, and simulating heat distribution.
+This repository contains MPI-based C programs that demonstrate various parallel computing concepts using the Message Passing Interface (MPI). The programs include tasks like calculating Pi, performing matrix operations, finding primes, and simulating heat distribution etc.
 
 ## Table of Contents
 
