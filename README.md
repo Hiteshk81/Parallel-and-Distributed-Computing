@@ -59,5 +59,4 @@ Check results and outputs in the terminal.
 
 Feel free to fork this repository and contribute by adding new features or fixing bugs. Submit a pull request with detailed explanations of your changes.
 
-### Developed by Hitesh
-B.Tech COE | TIET
+
